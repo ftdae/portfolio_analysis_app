@@ -42,10 +42,6 @@ With EigenLedger, you can easily analyze security or a portfolio in order to **g
 | 1. [Installation](#installation) | 
 | 2. [Documentation](#documentation) | 
 | 3. [Quickstart](#quickstart) |
-| 4. [Contribution and Issues](#contribution-and-issues) | 
-| 5. [Contributors](#contributors) |
-| 6. [Contact](#contact) |
-| 7. [License](#license) |
 	
 </div>
 
@@ -115,60 +111,3 @@ portfolio_analysis(portfolio)
 ![追星族的时间](https://starchart.cc/ssantoshp/empyrial.svg)
 	
 </div>
-
-## Contribution and Issues
-EigenLedger uses GitHub to host its source code.  *Learn more about the [Github flow](https://docs.github.com/en/get-started/quickstart/github-flow).*  
-
-For larger changes (e.g., new feature request, large refactoring), please open an issue to discuss first.  
-
-* If you wish to create a new Issue, then [click here to create a new issue](https://github.com/ssantoshp/EigenLedger/issues/new/choose).  
-
-Smaller improvements (e.g., document improvements, bugfixes) can be handled by the Pull Request process of GitHub: [pull requests](https://github.com/ssantoshp/EigenLedger/pulls).  
-
-* To contribute to the code, you will need to do the following:  
-
- * [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) [EigenLedger](https://github.com/ssantoshp/EigenLedger) - Click the **Fork** button at the upper right corner of this page. 
- * [Clone your own fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository).  E.g., ```git clone https://github.com/ssantoshp/EigenLedger.git```  
-  *If your fork is out of date, then will you need to manually sync your fork: [Synchronization method](https://help.github.com/articles/syncing-a-fork/)*
- * [Create a Pull Request](https://github.com/ssantoshp/EigenLedger/pulls) using **your fork** as the `compare head repository`. 
-
-You contributions will be reviewed, potentially modified, and hopefully merged into EigenLedger.  
-
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/BrendanGlancy"><img src="https://avatars.githubusercontent.com/u/61941978?v=4" width="100px;" alt=""/><br /><sub><b>Brendan Glancy</b></sub></a><br /><a title="Code">💻</a> <a title="Bug report">🐛</a></td>
-    <td align="center"><a href="https://github.com/rslopes"><img src="https://avatars.githubusercontent.com/u/24928343?v=4" width="100px;" alt=""/><br /><sub><b>Renan Lopes</b></sub></a><br /><a title="Code">💻</a> <a title="Bug report">🐛</a></td>
-    <td align="center"><a href="https://github.com/markthebault"><img src="https://avatars.githubusercontent.com/u/3846664?v=4" width="100px;" alt=""/><br /><sub><b>Mark Thebault</b></sub></a><br /><a title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/diegodalvarez"><img src="https://avatars.githubusercontent.com/u/48641554?v=4" width="100px;" alt=""/><br /><sub><b>Diego Alvarez</b></sub></a><br /><a title="Code">💻🐛</a></td>
-    <td align="center"><a href="https://github.com/rakeshbhat9"><img src="https://avatars.githubusercontent.com/u/11472305?v=4" width="100px;" alt=""/><br /><sub><b>Rakesh Bhat</b></sub></a><br /><a title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Haizzz"><img src="https://avatars.githubusercontent.com/u/5275680?v=4" width="100px;" alt=""/><br /><sub><b>Anh Le</b></sub></a><br /><a title="Bug report">🐛</a></td>
-    <td align="center"><a href="https://github.com/TonyZhangkz"><img src="https://avatars.githubusercontent.com/u/65281213?v=4" width="100px;" alt=""/><br /><sub><b>Tony Zhang</b></sub></a><br /><a title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a title="Code">✒️</a></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=-4qx3tbtTgs"><img src="https://avatars.githubusercontent.com/u/50767660?v=4" width="100px;" alt=""/><br /><sub><b>QuantNomad</b></sub></a><br /><a title="Code">📹</a></td>
-    <td align="center"><a href="https://github.com/buckleyc"><img src="https://avatars.githubusercontent.com/u/4175900?v=4" width="100px;" alt=""/><br /><sub><b>Buckley</b></sub></a><br /><a title="Code">✒️💻</a></td>
-    <td align="center"><a href="https://github.com/agn35"><img src="https://lh3.googleusercontent.com/a-/AOh14GhXGFHHpVQTL2r23oEXFssH0f7RyoGDihrS_HmT=s48" width="100px;" alt=""/><br /><sub><b>Adam Nelsson</b></sub></a><br /><a title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/rgleavenworth"><img src="https://avatars.githubusercontent.com/u/87843950?v=4" width="100px;" alt=""/><br /><sub><b>Ranjan Grover</b></sub></a><br /><a title="Code">🐛💻</a></td>
-  </tr>
-</table>
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. **Contributions of any kind are welcome!**
-
-## Credit
-
-This library has also been made possible because of the work of these incredible people:
-- [**Ran Aroussi**](https://github.com/ranaroussi) for the [**Quantstats library**](https://github.com/ranaroussi/quantstats) 
-- [**Robert Martin**](https://github.com/robertmartin8) for the [**PyPortfolioOpt**](https://github.com/robertmartin8/PyPortfolioOpt) 
-
-## Contact
-
-You are welcome to contact us by email at **santoshpassoubady@gmail.com** or in EigenLedger's [discussion space](https://github.com/ssantoshp/EigenLedger/discussions)
-
-## License
-
-Apache License 2.0
